@@ -1,2 +1,2 @@
 # aranyadev-demo
-This is my first repo<br>Author: Aranya Dev
+This is my first repo<br>Author: Aranya Devii
